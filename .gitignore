@@ -3,3 +3,4 @@ __pycache__
 docs/locale
 docs/_build
 docs/.tx
+.idea
