@@ -4,3 +4,4 @@ docs/locale
 docs/_build
 docs/.tx
 .idea
+docs_cn/_build
